@@ -1,2 +1,2 @@
-# demorep2
+# demorep
 just to learn github
